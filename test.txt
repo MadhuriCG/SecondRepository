@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is test file.
+=======
+This is test file, test file again.
+Second line.
+Third line.
+>>>>>>> 5ec9a58b1eef9dd89281a42de646003479489340
